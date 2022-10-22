@@ -1,8 +1,10 @@
 
 Fivem-TypeScript-BoilerPlate
 
-``npm i`` for install
+# Dependencies
 
-``npm run watch`` for watch IG
+``npm i``
 
-``npm run build`` for build and use IG
+``npm run watch for watch IG``
+
+``npm run build for build and use IG``
