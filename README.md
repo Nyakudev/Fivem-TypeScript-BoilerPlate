@@ -1,7 +1,7 @@
 
 Fivem-TypeScript-BoilerPlate
 
-``npm i``
+``npm i`` for install
 
 ``npm run watch`` for watch IG
 
